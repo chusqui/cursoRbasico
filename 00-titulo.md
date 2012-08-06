@@ -1,1 +1,1 @@
-% Curso Básico de R % Autores: ...  asdfasdf 
+% Curso Básico de R % Yo; Tú; Él

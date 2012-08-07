@@ -1,2 +1,2 @@
-% Curso Básico de R
-% Yo; Tú; Él
+% Curso Básico de R  
+% Juan Pérez; Pedro López  

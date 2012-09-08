@@ -19,7 +19,7 @@ xtable(head(mtcars[, 1:5]))
 ```
 
 % latex table generated in R 2.15.1 by xtable 1.7-0 package
-% Sun Aug  5 18:06:27 2012
+% Sat Sep  8 22:28:35 2012
 \begin{table}[ht]
 \begin{center}
 \begin{tabular}{rrrrrr}

@@ -128,3 +128,11 @@ Los programas para la generación de la documentación, etc., son una versión d
 Las dependencias faltantes pueden deducirse de los mensajes de error generados por las llamadas a `pandoc` que realiza el _script_ `knit` mencionado más arriba.
 
 El uso de estos `scripts` puede resultar complicado en sistemas como Windows. Eso no significa que sea imposible aportar contenido al curso usando Windows. Pero sí que puede resultar complicado generar la salida en PDF.
+
+## Quiero colaborar... ¿qué hago?
+
+Si quieres colaborar, lo primero que tienes que hacer es leer esta guía.
+
+Después tienes que abrir una cuenta en [https://github.com/](github) y solicitar acceso para editar el código (escribiendo al [creador del repositorio](https://github.com/cjgb)).
+
+A partir de ese momento puedes hacer _checkout_ del proyecto, editar, subir los cambios, etc. De acuerdo con las instrucciones de esta guía.
